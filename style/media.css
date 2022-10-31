@@ -1,0 +1,232 @@
+@media only screen and (max-width: 768px) {
+    header nav ul li{
+        margin-left: 15px;
+    }
+    section div h1{
+        margin-left: 10px;
+        font-size: 50px;
+
+    }
+    .container h3{
+        margin-left: 10px;
+    }
+    .container p{
+        max-width: 320px;
+        margin-left: 10px;
+    }
+    .our_firm h4{
+        margin-left: 10px;
+    }
+    .div_item{
+        margin-left: 15px;
+    }
+    .size_section p{
+        max-width: 230px;
+        margin: auto 10px auto 10px;
+    }
+    .project_container h3{
+        margin-left: 10px;
+    }
+    .project_container p{
+        margin-left: 10px;
+    }
+    .team{
+        margin-left: 10px;
+    }
+    .indent{
+        margin-left: 10px;
+    }
+    .article_ident {
+        width: 250px;
+        margin: auto 0 auto 0;
+    }
+    .item_style{
+        margin-left: 10px;
+    }
+    .style_list{
+        margin-left: 10px;
+    }
+}
+@media only screen and (max-width: 428px) {
+    header{
+        display: none;
+    }
+    section div h1{
+        line-height: 40px;
+        font-size: 25px;
+    }
+    .container p{
+        font-size: 13px;
+        line-height: 23px;
+        max-width: 200px;
+        margin-bottom: 20px;
+    }
+    .container h3{
+        margin-bottom: 5px;
+        font-size: 12px;
+    }
+    .container a{
+        font-size: 14px;
+    }
+    .our_firm h4{
+        margin-right: 90px;
+        font-size: 25px;
+    }
+    .our_firm p{
+        max-width: 300px;
+        margin-bottom: 15px;
+    }
+    .color .d_flex{
+        display: block;
+        padding: 60px 0;
+    }
+    .d_block{
+        margin: auto auto auto 30px;
+    }
+    .div_item{
+        margin: auto auto auto 15px;
+    }
+    .prior{
+    margin-bottom: 5px;
+    }
+    .color h3{
+        margin-bottom: 10px;
+    }
+    .project h3{
+        font-size: 35px;
+    }
+    .project p{
+        font-size: 22px;
+    }
+    .project .d_flex{
+        display: block;
+        margin-left: 26px;
+    }
+    .style_list{
+        font-size: 22px;
+        line-height: 32px;
+        max-width: 277px;
+    }
+    .item_style{
+        font-size: 13px;
+    }
+    .text_ident{
+        margin: auto;
+    }
+    .div_ident{
+        margin: auto;
+    }
+    .team.d_flex{
+        display: block;
+    }
+    .section_size{
+        min-height: 277px;
+    }
+    .article_ident{
+        margin-bottom: 25px;
+    }
+    .team-item{
+        display: block;
+    }
+    footer{
+        padding-left: 15px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .container {
+        padding: 20px 0 0 0;
+
+    }
+    .foto {
+        position: relative;
+        height: 150px;
+        width: 100%;
+        top: 20px
+    }
+    .container p {
+        max-width: 300px;
+    }
+    .arhitecture h1 {
+        line-height: 40px;
+        font-size: 32px;
+    }
+    .our_firm{
+        display: block;
+    }
+    .our_firm h4{
+        margin-bottom: 20px;
+    }
+    .our_firm p{
+        margin: auto 10px 15px 10px;
+    }
+    .our_firm p:last-of-type{
+        margin-bottom: 20px;
+    }
+    .article_ident{
+        margin-left: 20px;
+    }
+    .reeding_house{
+        padding: 0;
+    }
+    .size_section h2{
+        font-size: 25px;
+    }
+    .marble_staircase{
+        padding: 0;
+    }
+    .color p{
+        margin-bottom: 20px;
+    }
+    .d_block{
+        margin: auto;
+    }
+    .d_block a:first-of-type img{
+        margin: auto 10px 60px 15px;
+    }
+    .d_block a:nth-child(2) img{
+        margin: auto 10px 60px 10px;
+    }
+    .d_block a:nth-child(3) img{
+        margin: auto 10px auto 15px;
+    }
+    .d_block a:last-of-type img{
+        margin: auto 10px auto 10px;
+    }
+    .project h3{
+        font-size: 30px;
+    }
+    .project p{
+        font-size: 18px;
+    }
+    .project .d_flex{
+        margin: auto 5px 10px 5px;
+    }
+    .size .d_flex{
+        display: block;
+    }
+    .item_style{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .style_list{
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .link{
+        margin: 20px auto auto 30px;
+    }
+    footer{
+        display: block;
+    }
+    footer ul{
+        margin: 15px auto;
+    }
+    footer ul li a{
+        margin: auto;
+
+    }
+    footer ul li {
+        margin: 10px auto auto auto;
+        height: 30px;
+    }
+}
