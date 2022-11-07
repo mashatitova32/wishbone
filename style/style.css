@@ -47,6 +47,13 @@ header nav ul li:last-of-type a{
     text-decoration: none;
     color: #FFFFFF;
 }
+.ui-widget-header{
+    background-color: black;
+    color: #FFFFFF;
+}
+.ui-widget-content{
+    background-color: #CEC4BC;
+}
 .container{
     padding: 137px 0 128px;
     background-color: #ECE7E4;
